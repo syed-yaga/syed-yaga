@@ -1,4 +1,4 @@
-# syed_yaga
+# syed-yaga
 <h1 align="center">Hi 👋, I'm Syed Saqib</h1>
 <h3 align="center">A passionate developer from India 🇮🇳 </h3>
 
