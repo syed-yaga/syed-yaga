@@ -10,9 +10,6 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandansgowda&show_icons=true&locale=en" alt="chandansgowda" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandansgowda&" alt="chandansgowda" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
