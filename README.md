@@ -18,3 +18,4 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)  
 ![Zod](https://img.shields.io/badge/Zod-3178C6?style=for-the-badge)
+![DOM](https://img.shields.io/badge/DOM-4285F4?style=for-the-badge)
