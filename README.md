@@ -25,3 +25,4 @@
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)  
 ![Zod](https://img.shields.io/badge/Zod-3178C6?style=for-the-badge)
 ![DOM](https://img.shields.io/badge/DOM-4285F4?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
