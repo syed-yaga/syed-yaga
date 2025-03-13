@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Javascript and Web application**
 
-- 💬 Ask me about **Programming, Mern stack**
+- 💬 Ask me about **Programming, MERN Stack**
 
 - 📫 Reach out to me at **soharwardiandco27@gmail.com**
 
