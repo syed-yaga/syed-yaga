@@ -30,3 +30,5 @@
 ![DOM](https://img.shields.io/badge/DOM-4285F4?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![Axios](https://img.shields.io/badge/-Axios-671ddf?style=flat-square&logo=data:image/svg+xml;base64,...)
+![Recoil](https://img.shields.io/badge/-Recoil-3578E5?style=flat-square&logo=recoil)  
+
