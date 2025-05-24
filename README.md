@@ -31,4 +31,4 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![Axios](https://img.shields.io/badge/-Axios-671ddf?style=flat-square&logo=data:image/svg+xml;base64,...)
 ![Recoil](https://img.shields.io/badge/-Recoil-3578E5?style=flat-square&logo=recoil)  
-
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css)  
