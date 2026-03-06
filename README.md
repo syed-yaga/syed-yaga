@@ -71,15 +71,16 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
 ![Zod](https://img.shields.io/badge/Zod-3178C6?style=for-the-badge)
 
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-green?style=for-the-badge&logo=mongodb)
+
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![JSX](https://img.shields.io/badge/JSX-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-green?style=for-the-badge&logo=mongodb)
 
 ### API & Networking
 ![Axios](https://img.shields.io/badge/Axios-671ddf?style=for-the-badge)
