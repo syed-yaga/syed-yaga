@@ -78,6 +78,7 @@
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
 ![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-green?style=for-the-badge&logo=mongodb)
 
 ### API & Networking
