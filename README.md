@@ -98,7 +98,7 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syed-yaga&show_icons=true&theme=dark)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=syed-yaga&theme=dark)
 
 
