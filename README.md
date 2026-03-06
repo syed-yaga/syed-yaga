@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Syed Saqib</h1>
+<h1 align="center">Hi, I'm Syed Saqib</h1>
 <h3 align="center">Backend-Focused Full Stack Developer from India building scalable APIs and modern full-stack web applications. </h3>
 
 
@@ -52,7 +52,7 @@
 - Git and GitHub for version control
 - Logging and debugging backend services
 
-## 🎨 Frontend Skills
+## Frontend Skills
 
 - Building responsive interfaces with React
 - State management using Recoil
