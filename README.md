@@ -106,7 +106,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=syed-yaga&theme=dark)
 
-
+## Resume
+Link: https://github.com/syed-yaga/Resume
 
 ## Contact
 - Email: soharwardiandco27@gmail.com 
