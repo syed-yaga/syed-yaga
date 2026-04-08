@@ -1,67 +1,56 @@
+<h1 align="center">Hi, I'm Syed Saqib </h1>
+<h3 align="center">
+Backend Developer focused on building scalable APIs, payment systems, and production-ready backend services.
+</h3>
 
-<h1 align="center">Hi, I'm Syed Saqib</h1>
-<h3 align="center">Backend-Focused Full Stack Developer from India building scalable APIs and modern full-stack web applications. </h3>
+---
 
+## Featured Projects
 
-- 💬 Ask me about **Programming, MERN Stack**
+### Stripe Payment Microservice (Production-Ready)
+- JWT Authentication + Protected APIs  
+- Stripe Payment Integration (PaymentIntents)  
+- Webhook-based event handling  
+- Refund system (only after successful charge)  
+- Idempotent APIs (no duplicate payments)  
+- Transaction history & analytics  
+- Dockerized + CI/CD  
 
-  ## Featured Projects
+**Live API:** https://stripe-payment-service-net0.onrender.com  
+**Swagger Docs:** https://stripe-payment-service-net0.onrender.com/api-docs  
+**GitHub:** https://github.com/syed-yaga/stripe-payment-service  
 
-- Live Demo: https://echoes-wwgg.onrender.com
-- Live Demo: https://auth-service-rabc.onrender.com/api-docs
+---
 
+### Authentication Microservice
+- JWT authentication (access + refresh tokens)  
+- Role-based authorization (RBAC)  
+- PostgreSQL + Prisma  
+- Dockerized service  
 
+https://auth-service-rabc.onrender.com/api-docs  
 
+---
 
-## Backend Skills
+### Echoes — Blog Platform
+- Full CRUD operations  
+- Authentication & protected routes  
+- Comment system  
+- RESTful API design  
 
-### API Development
-- Designing RESTful APIs with Node.js and Express
-- Structuring scalable route and controller architecture
-- Middleware-based request handling
-- API versioning and endpoint organization
+https://echoes-wwgg.onrender.com  
 
-### Authentication & Security
-- JWT-based authentication
-- Secure cookie/session handling
-- Secure cookie handling
-- Password hashing and validation
-- Input validation with Zod
-- CORS configuration and API protection
+---
 
-### Database & Data Modeling
-- MongoDB database design
-- Schema modeling with Mongoose / Prisma
-- CRUD operations and query optimization
-- Data relationships and indexing
+## What I Specialize In
 
-### Backend Architecture
-- Modular project structure
-- Error handling middleware
-- Environment configuration and secrets management
-- Separation of concerns (routes, services, controllers)
+- Building **production-ready backend systems**
+- Designing **secure authentication & authorization**
+- Implementing **real-world payment systems (Stripe)**
+- Creating **event-driven architectures (webhooks)**
+- Writing **clean, scalable API architecture**
 
-### Deployment & DevOps
-- Deploying full-stack applications on Render
-- 
-- Environment variable management
-- Production build pipelines
-- Debugging production issues
-
-### Tools & Development Workflow
-- Postman for API testing
-- Git and GitHub for version control
-- Logging and debugging backend services
-
-## Frontend Skills
-
-- Building responsive interfaces with React
-- State management using Recoil
-- API integration using Axios / Fetch
-- Form handling and validation
-- UI styling with Tailwind CSS
-- Component-based architecture
-- Client-side routing
+---
 
 ## 🛠 Tech Stack
 
@@ -70,46 +59,31 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-![Zod](https://img.shields.io/badge/Zod-3178C6?style=for-the-badge)
 
 ### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-green?style=for-the-badge&logo=mongodb)
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![JSX](https://img.shields.io/badge/JSX-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-
-
-### API & Networking
-![Axios](https://img.shields.io/badge/Axios-671ddf?style=for-the-badge)
-![CORS](https://img.shields.io/badge/CORS-1572B6?style=for-the-badge)
-
-### UI & Styling
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui)
-
-### State Management
-![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil)
-
-### Tools
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render)
 
+---
 
-<h3 align="left">GitHub Stats:</h3>
-
+## 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=syed-yaga&theme=dark)
 
-## Resume
-Link: https://github.com/syed-yaga/Resume
+---
 
-## Contact
-- Email: soharwardiandco27@gmail.com 
+## Resume
+https://github.com/syed-yaga/Resume
+
+---
+
+## ontact
+
+- Email: smsaquib04@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/syed-saquib-ab0669271/
